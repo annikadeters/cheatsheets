@@ -36,7 +36,7 @@ echo xx >>> | ???? Datei wird erstellt?
 cat | Datei, Dateiname wird angezeigt
 less | Datei(-inhalte) werden angezeigt, in denen man navigieren kann
 open | Datei wird im VS Code angezeigt/geöffnet
-
+tree | Verzeichnis in Baumstruktur (muss vorher über brew install tree - Befehl installiert werden)
 
 ### Wildcards
 
