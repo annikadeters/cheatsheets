@@ -1,6 +1,5 @@
 # Shell Commands
 
-
 $ = shell prompt, It appears when the terminal is ready to accept a command.
 
 directories = folders (organized into a filesystem)
