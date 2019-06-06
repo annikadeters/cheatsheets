@@ -10,7 +10,7 @@ Command | Description
 -------- | -----------
 ls | lists the files and folders inside the folder you are in
 pwd | “print working directory” /  It outputs the name of the directory you are currently in, called the working directory.
-cd | “change directory” / cd switches you into the directory you specify. In other words, cd changes the working directory.
+cd | “change directory” / cd switches you into the directory you specify. In other words, cd changes the working directory. Nur das eingeben und man kommt wieder ins root.
 cd ../../action/ | 
 argument | When a file, directory or program is passed into a command, it is called an argument. e.g. cd 2015 - 2015 ist the argument, which you want to go into (folder/directory 2015). The cd command takes a directory name as an argument, and switches into that directory. To navigate directly to a directory, use cd with the directory’s path as an argument. Here, cd jan/memory/
 cd .. | To move up one directory, use cd ..
@@ -36,7 +36,7 @@ echo xx >>> | ???? Datei wird erstellt?
 cat | Datei, Dateiname wird angezeigt
 less | Datei(-inhalte) werden angezeigt, in denen man navigieren kann
 open | Datei wird im VS Code angezeigt/geöffnet
-tree | Verzeichnis in Baumstruktur (muss vorher über brew install tree - Befehl installiert werden)
+tree | Verzeichnis in Baumstruktur (muss vorher über brew install tree - Befehl installiert werden) 
 
 ### Wildcards
 
